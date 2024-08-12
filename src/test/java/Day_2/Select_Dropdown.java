@@ -39,9 +39,9 @@ public class Select_Dropdown {
 //			System.out.println(dpwn.getText());
 //		}
 // 		Method 2 ----> For Loop
-		 for(int i =0;i<drpdwn.size();i++) {
-			 System.out.println(drpdwn.get(i).getText());
-		 }
+//		 for(int i =0;i<drpdwn.size();i++) {
+//			 System.out.println(drpdwn.get(i).getText());
+//		 }
 		}
 
 	}

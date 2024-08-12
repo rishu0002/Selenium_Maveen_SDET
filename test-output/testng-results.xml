@@ -2,38 +2,38 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-07T11:27:15 IST" name="mysuite" finished-at="2024-08-07T11:28:04 IST" duration-ms="49081">
+  <suite started-at="2024-08-12T12:27:26 IST" name="mysuite" finished-at="2024-08-12T12:27:52 IST" duration-ms="25862">
     <groups>
     </groups>
-    <test started-at="2024-08-07T11:27:15 IST" name="mytest" finished-at="2024-08-07T11:28:04 IST" duration-ms="49081">
+    <test started-at="2024-08-12T12:27:26 IST" name="mytest" finished-at="2024-08-12T12:27:52 IST" duration-ms="25862">
       <class name="TestNG.OpenHRMDemo">
-        <test-method signature="tearup()[pri:1, instance:TestNG.OpenHRMDemo@32eff876]" started-at="2024-08-07T11:27:15 IST" name="tearup" finished-at="2024-08-07T11:27:42 IST" duration-ms="26985" status="PASS">
+        <test-method signature="tearup()[pri:1, instance:TestNG.OpenHRMDemo@32eff876]" started-at="2024-08-12T12:27:26 IST" name="tearup" finished-at="2024-08-12T12:27:38 IST" duration-ms="12044" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearup -->
-        <test-method signature="logo()[pri:2, instance:TestNG.OpenHRMDemo@32eff876]" started-at="2024-08-07T11:27:42 IST" name="logo" finished-at="2024-08-07T11:27:45 IST" duration-ms="3047" status="PASS">
+        <test-method signature="logo()[pri:2, instance:TestNG.OpenHRMDemo@32eff876]" started-at="2024-08-12T12:27:38 IST" name="logo" finished-at="2024-08-12T12:27:41 IST" duration-ms="3028" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logo -->
-        <test-method signature="Login()[pri:3, instance:TestNG.OpenHRMDemo@32eff876]" started-at="2024-08-07T11:27:45 IST" name="Login" finished-at="2024-08-07T11:28:04 IST" duration-ms="19007" status="PASS">
+        <test-method signature="Login()[pri:3, instance:TestNG.OpenHRMDemo@32eff876]" started-at="2024-08-12T12:27:41 IST" name="Login" finished-at="2024-08-12T12:27:52 IST" duration-ms="10747" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="teardown()[pri:4, instance:TestNG.OpenHRMDemo@32eff876]" started-at="2024-08-07T11:28:04 IST" name="teardown" finished-at="2024-08-07T11:28:04 IST" duration-ms="2" status="PASS">
+        <test-method signature="teardown()[pri:4, instance:TestNG.OpenHRMDemo@32eff876]" started-at="2024-08-12T12:27:52 IST" name="teardown" finished-at="2024-08-12T12:27:52 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- TestNG.OpenHRMDemo -->
       <class name="TestNG.first_Test">
-        <test-method signature="OpenURL()[pri:1, instance:TestNG.first_Test@661972b0]" started-at="2024-08-07T11:28:04 IST" name="OpenURL" finished-at="2024-08-07T11:28:04 IST" duration-ms="1" status="PASS">
+        <test-method signature="OpenURL()[pri:1, instance:TestNG.first_Test@661972b0]" started-at="2024-08-12T12:27:52 IST" name="OpenURL" finished-at="2024-08-12T12:27:52 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenURL -->
-        <test-method signature="Login()[pri:2, instance:TestNG.first_Test@661972b0]" started-at="2024-08-07T11:28:04 IST" name="Login" finished-at="2024-08-07T11:28:04 IST" duration-ms="1" status="PASS">
+        <test-method signature="Login()[pri:2, instance:TestNG.first_Test@661972b0]" started-at="2024-08-12T12:27:52 IST" name="Login" finished-at="2024-08-12T12:27:52 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="Logout()[pri:3, instance:TestNG.first_Test@661972b0]" started-at="2024-08-07T11:28:04 IST" name="Logout" finished-at="2024-08-07T11:28:04 IST" duration-ms="2" status="PASS">
+        <test-method signature="Logout()[pri:3, instance:TestNG.first_Test@661972b0]" started-at="2024-08-12T12:27:52 IST" name="Logout" finished-at="2024-08-12T12:27:52 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Logout -->
